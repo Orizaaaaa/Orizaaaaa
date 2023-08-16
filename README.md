@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **oryzasativacikal@gmail.com**
 
-- ⚡ Fun fact **I Am Ambitious Person**
+- ⚡ Fun fact **I Am lazy programmer, that's why I always find a quick way to solve the problem **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
