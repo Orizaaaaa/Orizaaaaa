@@ -66,15 +66,15 @@
 
 
 
-<div>
+
   <a href="https://git.io/streak-stats" style="width: 48%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Orizaaaaa&theme=dark" alt="GitHub Streak">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Orizaaaaa&theme=dark" alt="GitHub Streak">
   </a>
 
   <a href="https://github.com/Orizaaaaa" style="width: 48%;">
-    <img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=Orizaaaaa&show_icons=true&theme=merko" alt="Ayushi's GitHub stats">
+    <img align="right" src="https://github-readme-stats-two-nu-79.vercel.app/api?username=Orizaaaaa&show_icons=true&theme=merko" alt="Ayushi's GitHub stats">
   </a>
-</div>
+
 
 
 
