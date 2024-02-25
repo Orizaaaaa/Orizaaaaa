@@ -64,6 +64,16 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Orizaaaaa&theme=dark)](https://git.io/streak-stats)
-![Ayushi's GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=Orizaaaaa&show_icons=true&theme=merko)
+<div align="center">
+  <div style="float: left; width: 48%;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Orizaaaaa&theme=dark" alt="GitHub Streak" />
+    </a>
+  </div>
+
+  <div style="float: right; width: 48%;">
+    <img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=Orizaaaaa&show_icons=true&theme=merko" alt="GitHub Stats" />
+  </div>
+</div>
+
 
