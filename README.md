@@ -14,11 +14,7 @@
 - 📫 How to reach me **oryzasativacikal@gmail.com**
 
 - ⚡ Fun fact **I Am lazy programmer, that's why I always find a quick way to solve the problem **
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/oriza sativa cikal mulyana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oriza sativa cikal mulyana" height="30" width="40" /></a>
-<a href="https://instagram.com/oryza_ssativa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oryza_ssativa" height="30" width="40" /></a>
-</p>
+
 
  <br/>
 <h3 align="left">Languages and Tools:</h3>
