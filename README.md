@@ -65,27 +65,22 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Orizaaaaa&theme=dark)](https://git.io/streak-stats)
-![Ayushi's GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=Orizaaaaa&show_icons=true&theme=merko)
-
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushiVashisth&theme=react">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushiVashisth&theme=react">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushiVashisth&theme=react">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushiVashisth&theme=react&utcOffset=8">
-	
-</p>
-  <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
- <div align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AyushiVashisth&theme=react&show_icons=true&icon_color=61dafb&border_color=61dafb&text_color=FFFFFF"/>
-    <img widht="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiVashisth&bg_color=000000&theme=react&icon_color=61dafb&border_color=61dafb&text_color=FFFFFF&fire=F1E05A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" />
-  </div>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Orizaaaaa&theme=dark" alt="GitHub Streak">
+  </a>
 </div>
-  <br/>
+
+<div align="center">
+  <a href="https://github.com/Orizaaaaa">
+    <img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=Orizaaaaa&show_icons=true&theme=merko" alt="Ayushi's GitHub stats">
+  </a>
+</div>
+
  <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiVashisth&bg_color=00000000&theme=react&border_color=61dafb"  align="center"
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orizaaaaa&bg_color=00000000&theme=gruvbox&border_color=61dafb"  align="center"
         width="100%" heigth="250px"
       /></p>
+
 
 
