@@ -14,14 +14,13 @@
 - 📫 How to reach me **oryzasativacikal@gmail.com**
 
 - ⚡ Fun fact **I Am lazy programmer, that's why I always find a quick way to solve the problem **
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oriza sativa cikal mulyana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oriza sativa cikal mulyana" height="30" width="40" /></a>
 <a href="https://instagram.com/oryza_ssativa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oryza_ssativa" height="30" width="40" /></a>
 </p>
 
-
+ <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -63,8 +62,7 @@
 </p>
 
 
-
-
+ <br/>
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Orizaaaaa&theme=dark" alt="GitHub Streak">
@@ -76,9 +74,9 @@
     <img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=Orizaaaaa&show_icons=true&theme=merko" alt="Ayushi's GitHub stats">
   </a>
 </div>
-
+ <br/>
  <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orizaaaaa&bg_color=00000000&theme=gruvbox&border_color=61dafb"  align="center"
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orizaaaaa&bg_color=00000000&theme=merko&border_color=61dafb"  align="center"
         width="100%" heigth="250px"
       /></p>
 
