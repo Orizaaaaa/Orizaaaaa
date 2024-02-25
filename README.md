@@ -66,7 +66,7 @@
 
 
 
-<div style="display: flex; justify-content: space-between; max-width: 100%;">
+<div>
   <a href="https://git.io/streak-stats" style="width: 48%;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Orizaaaaa&theme=dark" alt="GitHub Streak">
   </a>
