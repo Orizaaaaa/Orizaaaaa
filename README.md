@@ -64,4 +64,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orizaaaaa&" alt="orizaaaaa" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Orizaaaaa&theme=dark)](https://git.io/streak-stats)
+
