@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oriza Sativa Cikal Mulyana</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
+ <br/>
+<p align="left"> Hello everyone! I am Oriza Sativa, a junior frontend website developer. I am a intermediate experienced and I hope with this I can always learning something new to be able to invent digital applications that can help many people in the future. ✨ </p>
  <img align="right" alt=" Coding" width="480"
         src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
@@ -8,11 +10,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React.js, Next.Js, Vue, React Native**
-
-- 💬 Ask me about **React.js**
-
+- 💬 Ask me about **Front End Developer 😁 **
 - 📫 How to reach me **oryzasativacikal@gmail.com**
-
 - ⚡ Fun fact **I Am lazy programmer, that's why I always find a quick way to solve the problem **
 
 
